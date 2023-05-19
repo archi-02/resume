@@ -36,7 +36,7 @@ with st.container():
     # Add content to the right column
     with col2:
         # Add image of yours
-        image = "image1.jpg"  # Replace with the path to your image file
+        image = "image1.JPG"  # Replace with the path to your image file
         st.image(image)
 
 with st.container():
